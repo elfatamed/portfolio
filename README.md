@@ -1,2 +1,3 @@
 # portfolio
-mon prtfolio
+mon prtfolio est bien installé sur mon ordi 
+
